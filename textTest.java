@@ -1,3 +1,10 @@
+
+
+//Contributed by Rohail Rasheed
+//Contributed by Alyan Asif
+//Contributed by Aarish Ahmed
+//Contributed by Hussain Shams
+
 package Exchange;
 
 import java.util.Scanner;
@@ -37,6 +44,6 @@ class textTest {
 				
 		
 		
-	}
+	        }
 
 }
